@@ -1,0 +1,13 @@
+/.cache
+/.temp
+/logs
+test_*
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# VS Code
+.vscode
